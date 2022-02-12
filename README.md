@@ -4,7 +4,7 @@ A book database website.
 
 ### **Home page**
 **Preview:** http://izovi.com/readio \
-This page includes search by keyword, popular filtering categories, editor's choice, mini-statistics and author introduction components.
+This page contains search by keyword, popular filtering categories, editor's choice, mini-statistics and author introduction components.
 
 ### **Detail page**
 **Preview:** http://izovi.com/readio/detail.php?book_id=36 \
